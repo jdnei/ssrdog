@@ -1,4 +1,4 @@
-# SSRdog机场官方地址(2026年7月30日更新)
+# SSRdog机场官方地址(2026年7月31日更新)
 SSRdog机场官网地址</br>
 最新地址01：[dog8.hosbbq.com](https://dog8.hosbbq.com/#/register?code=yIJlIxvl)</br>
 最新地址02：[st2.hosbb.com](https://st2.hosbb.com/#/register?code=yIJlIxvl)</br>
