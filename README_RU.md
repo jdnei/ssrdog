@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт SSRdog VPN (обновлено 8 ноября 2026)
+# Официальный сайт SSRdog VPN (обновлено 9 ноября 2026)
 
 Официальный сайт SSRdog VPN<br>
 Актуальный адрес 01: [dog.ssrdog.com](https://to.iix.im/dog01)<br>
