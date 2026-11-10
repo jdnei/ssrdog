@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی SSRdog VPN (به‌روزرسانی 9 نوامبر 2026)
+# وب‌سایت رسمی SSRdog VPN (به‌روزرسانی 10 نوامبر 2026)
 وب‌سایت رسمی SSRdog VPN<br>
 آخرین آدرس ۰۱: [dog.ssrdog.com](https://to.iix.im/dog01)<br>
 آخرین آدرس ۰۲: [dog.ssrdog.com](https://to.iix.im/dog01)<br>
